@@ -1,0 +1,17 @@
+C:\Dados\Dados\Dados\bin\Debug\Dados.exe.config
+C:\Dados\Dados\Dados\bin\Debug\Dados.exe
+C:\Dados\Dados\Dados\bin\Debug\Dados.pdb
+C:\Dados\Dados\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Dados\Dados\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Dados\Dados\Dados\obj\Debug\Dados.exe
+C:\Dados\Dados\Dados\obj\Debug\Dados.pdb
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\bin\Debug\Dados.exe.config
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\bin\Debug\Dados.exe
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\bin\Debug\Dados.pdb
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\obj\Debug\Dados.exe
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\obj\Debug\Dados.pdb
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Asus\OneDrive\Documents\2ªAno-Lesi\AAD\24-25\Dados\Dados\Dados\obj\Debug\Dados.csproj.Up2Date
